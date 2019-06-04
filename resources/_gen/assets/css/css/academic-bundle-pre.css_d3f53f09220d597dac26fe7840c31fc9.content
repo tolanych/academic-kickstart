@@ -1,0 +1,1 @@
+.dark .card h4 a,.dark .card a,.dark section a{color:#8c9eff}.featurette-icon i,.network-icon li{transition:.6s all}.featurette-icon:hover i{transform:scale(1.4,1.4) rotateY(360deg)}

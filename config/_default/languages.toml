@@ -5,7 +5,7 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
@@ -18,3 +18,32 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+[ru]
+  languageCode = "ru-ru"
+  contentDir = "content/ru"
+  title = "tolanych"
+  [ru.params]
+    description = "@tolanych / Резюме Анатолия Хиневича"
+  [[ru.menu.main]]
+    name = "Обо мне"
+    url = "#about"
+    weight = 10
+  [[ru.menu.main]]
+    name = "Навыки"
+    url = "#skills"
+    weight = 20
+
+  [[ru.menu.main]]
+    name = "Опыт"
+    url = "#experience"
+    weight = 30
+
+  [[ru.menu.main]]
+    name = "Сертификаты"
+    url = "#accomplishments"
+    weight = 40
+
+  [[ru.menu.main]]
+    name = "Публикации"
+    url = "#publications"
+    weight = 50
