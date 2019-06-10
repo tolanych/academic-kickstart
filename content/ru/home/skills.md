@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Навыки"
-subtitle = "% моей уверенности в этой области"
+subtitle = "% моей уверенности в области"
 
 # Showcase personal skills or business features.
 # 

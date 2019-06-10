@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com/"
-  title = "Бинарное дерево поиска. Полная теория с кодом"
+  title = "Binary search trees. Code and Theory"
   url = ""
   certificate_url = "http://ude.my/UC-RZUQXZFJ"
   date_start = "2019-03-01"

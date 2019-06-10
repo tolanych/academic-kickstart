@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "ZX Spectrum"
-  company = "childhood years"
+  company = "childhood"
   company_url = ""
   location = "Borisov"
   date_start = "2000-01-01"
@@ -27,14 +27,14 @@ date_format = "Jan 2006"
   description = """
   My first Sinclair-based PC - [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)
 
-  * I've started my coding way on BASIC
-  * I've studied algorithms
-  * Having fun and playing games
+  * started my coding way on BASIC
+  * studied algorithms
+  * had fun and played games
   """
 
 [[experience]]
   title = "Simple web-technologies, mods-making"
-  company = "junior years"
+  company = "adolescence"
   company_url = ""
   location = "Borisov"
   date_start = "2006-01-01"
@@ -50,15 +50,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Writer reviews"
-  company = "Blog Gamersroom"
+  title = "Writing reviews for Blog Gamersroom"
+  company = ""
   company_url = ""
   location = "Belarus"
   date_start = "2010-10-01"
   date_end = "2011-06-01"
-  description = """I have written dozens authors reviews in column about INDIE (independent video game) and retrospective-games articles.
+  description = """I wrote dozens of authorial reviews for column about INDIE (independent video game) and retrospective-games articles.
   
-  *unfortunately the project is closed"""
+  *unfortunately the project was closed"""
 
 [[experience]]
   title = "GameDev"
@@ -67,24 +67,30 @@ date_format = "Jan 2006"
   location = "Belarus"
   date_start = "2014-08-01"
   date_end = "2015-01-01"
-  description = """I was enjoying during a development small hard game [FAAAAAALL](https://gamejolt.com/games/faaaaaall/36355). My contribution:
+  description = """I was having fun during the development of a small hard game [FAAAAAALL](https://gamejolt.com/games/faaaaaall/36355). My contribution:
   
   * Scripts on GML (GameMaker Studio)
   * Some gameplay ideas and features
   * Part of 2D FX animation
   
 
-  *unfortunately the project is freeze cause we lost artist and lead (in one person)
+  *unfortunately the project has been frozen cause we lost the artist and the lead (in one person)
+
+  ---
+
+  Developed a tap-game prototype [Gifts for Thomas](/showcase/giftsforthomas/).
+
+  * Coding on Construct 2
   """
 
 [[experience]]
-  title = "Member of workshop in Project management"
+  title = "Workshop on Project management"
   company = "HighTech Park Belarus"
   company_url = "http://www.park.by/?lng=en"
   location = "Belarus, Minsk"
   date_start = "2014-04-01"
   date_end = "2014-04-01"
-  description = """I participated in the workshop "Control of the project changes" from the education project based on HighTech Park Belarus"""
+  description = """I participated in the workshop "Control of the project changes" within the educational project on the basis of HighTech Park Belarus"""
 
 [[experience]]
   title = "Poetry competition"
@@ -93,7 +99,7 @@ date_format = "Jan 2006"
   location = "Belarus, Minsk"
   date_start = "2015-09-01"
   date_end = "2016-12-06"
-  description = """In 2015, I take part in the [first round](https://vk.com/wall-99303713_126) poetic competition \"Rukhavik\". In 2016 participated in the [semi-final](https://vk.com/wall-99303713_1881) of it. """
+  description = """In 2015, I took part in the [first round](https://vk.com/wall-99303713_126) of poetic contest \"Rukhavik\". In 2016 participated in its [semi-final](https://vk.com/wall-99303713_1881). """
 
 [[experience]]
   title = "Technical Engineer/Software Engineer"
@@ -102,12 +108,12 @@ date_format = "Jan 2006"
   location = "Belarus, Minsk"
   date_start = "2014-05-01"
   date_end = "2018-10-12"
-  description = """I started work as technical employment and later level up to Full-Stack web-developer. My experience:
+  description = """I have started working as a technical employee and later was promoted to Full-Stack web-developer. My experience:
 
-  * Configuring development servers
+  * Config and maintenance of servers for development
   * Refactoring and adding new services in legacy project (https://minsk.gov.by) from Perl to PHP
   * Also I was coding some Front-End on jQuery and vanilla JS
-  * Development new web apps and APIs for web-container gorod.gov.by
+  * Development of new web apps and APIs for web-container gorod.gov.by
   * Writing tecnical docs for developers and guides for content-managers
   * Making desktop apps on C# / .NET
   """
@@ -119,7 +125,7 @@ date_format = "Jan 2006"
   location = "Belarus, Minsk"
   date_start = "2016-08-01"
   date_end = ""
-  description = """I created the event site for Social Dances Blues Fest (on WordPress) and I have been upgrading it every year."""
+  description = """I created the event site for Social Dances Blues Fest (on WordPress) and upgrade it every year."""
 
 [[experience]]
   title = "Freelance"
@@ -128,15 +134,20 @@ date_format = "Jan 2006"
   location = "Belarus, Borisov"
   date_start = "2018-05-01"
   date_end = ""
-  description = """  
+  description = """ 
+  Work:
+
   * contribute [some PR](https://github.com/modxcms/revolution/pulls?q=is%3Apr+author%3Atolanych+is%3Aclosed) in core MODX
   * support MODX Tickets component (by another author)
+  * integrate search engine Sphinx in web-projects of different size. Сonfig indexes, integrate this tool into CMS.
 
-  I have been studying new modern technologies and acquering new experiences:
+  ---
+
+  I have been studying modern technologies and acquiring new experiences:
 
   * Workflow: TDD/CI/CD
   * Frontend: Webpack, ExtJS, VueJS
-  * Backend: Golang, Sphinx
+  * Backend: Laravel, Golang, Sphinx
   """
 
 

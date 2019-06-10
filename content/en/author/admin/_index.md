@@ -36,7 +36,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Art Classes"
+  course = "Secondary School Diploma (art grade)"
   institution = "Borisov High School №20"
   year = "2000-2009"
 
@@ -46,8 +46,8 @@ interests = [
   year = "2000-2011"
 
 [[education.courses]]
-  course = "Bachelor’s Degree. Software Engineer/ Department of Environmental Information Systems."
-  institution = "International Sakharov Environmental Institute of BSU"
+  course = "Higher Education. Software Engineer. Bachelor’s Degree"
+  institution = "International Sakharov Environmental Institute of BSU / Department of Environmental Information Systems"
   year = "2011-2016"
 
 # Social/Academic Networking
@@ -80,6 +80,11 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/tolanych"
 
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/tolanych/"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #[[social]]
@@ -89,8 +94,8 @@ interests = [
 
 +++
 
-I was born at 19 August 1993 in Republic Belarus, Borisov.
+I was born on 19 August, 1993 in Borisov, Republic of Belarus.
 
-I feel my interests lie primarily in web development and GameDev.
+The field of my interests is in area of a WebDev and GameDev.
 
-I'm a creative person and use humor to overcome the difficulties, and I also can easily abstract from the world to look at any problem in order to find a more complex and harmonic solution. I was more interested in the Humanities (i.e. history, geographics, art) in my childhood, but since 2007 I've begun taking an interest in technical direction.
+I'm a creative person I guess, and humor helps me to overcome life difficulties. Still, I have the ability to abstract from harsh reality and to look for an optimal complete solution. In the childhood I gave preference the humanities (history, geography, art), but as adolecent my keen interest pulled me to techology.
