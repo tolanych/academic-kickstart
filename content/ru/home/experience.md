@@ -149,5 +149,13 @@ date_format = "Jan 2006"
   * Бекэнд: Laravel, Golang, Sphinx
   """
 
+[[experience]]
+  title = "Программист PHP"
+  company = "«ЭЛЕКТРОСЕРВИС и Ко»"
+  company_url = "https://sila.by"
+  location = "Беларусь, Минск"
+  date_start = "2019-09-02"
+  date_end = ""
+  description = """Разработка и поддержка веб-ресурсов торговой сети."""
 
 +++

@@ -150,5 +150,13 @@ date_format = "Jan 2006"
   * Backend: Laravel, Golang, Sphinx
   """
 
+[[experience]]
+  title = "PHP Developer"
+  company = "«ЭЛЕКТРОСЕРВИС и Ко»"
+  company_url = "https://sila.by"
+  location = "Belarus, Minsk"
+  date_start = "2019-09-02"
+  date_end = ""
+  description = """Development and support E-commerce web-resources."""
 
 +++
