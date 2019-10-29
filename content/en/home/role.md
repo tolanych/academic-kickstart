@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 32  # Order that this section will appear.
 
 title = "my Team Roles"
-subtitle = "relevant experience in years"
+subtitle = "years of relevant experience"
 
 # Showcase personal skills or business features.
 # 
