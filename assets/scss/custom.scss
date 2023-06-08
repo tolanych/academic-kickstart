@@ -1,0 +1,58 @@
+.dark .card h4 a,.dark .card a,.dark section a{color:#8c9eff}.featurette-icon i,.network-icon li{transition:.6s all}.featurette-icon:hover i{transform:scale(1.4,1.4) rotateY(360deg)}
+
+ul.check-mark-list {
+    list-style-type: none;
+}
+
+ul.check-mark-list>li:before {
+    content: "\f14a";
+    font-family: "font awesome 5 free";
+    font-weight: 900;
+    margin-right: 13px;
+    width: 1em;
+    margin-left: -1.5em;
+}
+
+.edu ul, .edu .section-subheading {
+    text-align: left!important;
+}
+
+#featured .view-compact {
+    border-bottom: 1px dashed #c0c0c0;
+}
+
+
+.otro-blockquote{
+    max-width:600px;
+    margin:10px auto;
+    font-style:italic;
+    padding:0 30px 0 75px;
+    /*border-left:8px solid ;*/
+    line-height:1.6;
+    position: relative;
+  }
+  
+  .otro-blockquote::before{
+    font-family:Arial;
+    content: "\201C";
+    font-size:4em;
+    position: absolute;
+    left: 10px;
+    top:-10px;
+  }
+  
+  .otro-blockquote::after{
+    content: '';
+  }
+  
+  .otro-blockquote span{
+    display:block;
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+    margin-top:1em;
+  }
+
+  .home-section {
+    padding: 60px 0;
+  }
