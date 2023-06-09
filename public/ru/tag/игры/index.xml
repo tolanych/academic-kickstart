@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Игры | Анатолий Хиневич</title><link>https://tolany.ch/ru/tag/%D0%B8%D0%B3%D1%80%D1%8B/</link><atom:link href="https://tolany.ch/ru/tag/%D0%B8%D0%B3%D1%80%D1%8B/index.xml" rel="self" type="application/rss+xml"/><description>Игры</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>https://tolany.ch/media/icon_huebdd2862581ea2c28e6dfcc650cbc321_20423_512x512_fill_lanczos_center_3.png</url><title>Игры</title><link>https://tolany.ch/ru/tag/%D0%B8%D0%B3%D1%80%D1%8B/</link></image><item><title>FAAAAAALL (2014)</title><link>https://tolany.ch/ru/project/faaaaaall/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://tolany.ch/ru/project/faaaaaall/</guid><description>&lt;p>Имел удовольствие принять участие в разработке маленькой хардкорной игры FAAAAAALL. Мой вклад:&lt;/p>
+&lt;ul>
+&lt;li>скрипты на GML (GameMaker Studio)&lt;/li>
+&lt;li>некоторые геймплейные элементы&lt;/li>
+&lt;li>часть анимированных 2D эффектов&lt;/li>
+&lt;/ul>
+&lt;p>К сожалению, проект был заброшен по причине ухода лидера и 2D-художника (в одном лице)&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/ru/project/faaaaaall/splash_02_hu6c38a4e44be2cf0e21a062b4efddf4d6_9776_84e6a48db909413feea17af62f383ed3.webp 400w,
+/ru/project/faaaaaall/splash_02_hu6c38a4e44be2cf0e21a062b4efddf4d6_9776_b8c30ade1743589851b0450eb6f8e24d.webp 760w,
+/ru/project/faaaaaall/splash_02_hu6c38a4e44be2cf0e21a062b4efddf4d6_9776_1200x1200_fit_q75_h2_lanczos_2.webp 1200w"
+src="https://tolany.ch/ru/project/faaaaaall/splash_02_hu6c38a4e44be2cf0e21a062b4efddf4d6_9776_84e6a48db909413feea17af62f383ed3.webp"
+width="760"
+height="454"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/ru/project/faaaaaall/splash_03_hu680ee2eaa7f21ac6928d0d067e962cfe_8230_9fab9df8046298943e3d899889988e53.webp 400w,
+/ru/project/faaaaaall/splash_03_hu680ee2eaa7f21ac6928d0d067e962cfe_8230_05a0d95cd5da61daf20debdcce9c7e8d.webp 760w,
+/ru/project/faaaaaall/splash_03_hu680ee2eaa7f21ac6928d0d067e962cfe_8230_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://tolany.ch/ru/project/faaaaaall/splash_03_hu680ee2eaa7f21ac6928d0d067e962cfe_8230_9fab9df8046298943e3d899889988e53.webp"
+width="760"
+height="456"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/ru/project/faaaaaall/splash_04_huae26f934e838c7e165b029e28b2cab0a_39969_95915dbe6ef1429701ffb5ec3fcdb801.webp 400w,
+/ru/project/faaaaaall/splash_04_huae26f934e838c7e165b029e28b2cab0a_39969_d1bf254d54daa1ace4b7db755d8f0ba5.webp 760w,
+/ru/project/faaaaaall/splash_04_huae26f934e838c7e165b029e28b2cab0a_39969_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://tolany.ch/ru/project/faaaaaall/splash_04_huae26f934e838c7e165b029e28b2cab0a_39969_95915dbe6ef1429701ffb5ec3fcdb801.webp"
+width="760"
+height="456"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Gifts for Thomas (2014)</title><link>https://tolany.ch/ru/project/giftforthomas/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://tolany.ch/ru/project/giftforthomas/</guid><description>&lt;p>Разработал прототип кликер-игры &lt;a href="https://tolany.ch/showcase/giftsforthomas/">Gifts for Thomas&lt;/a>.&lt;/p>
+&lt;p>Кодил на Construct 2.&lt;/p></description></item></channel></rss>
