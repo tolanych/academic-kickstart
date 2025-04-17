@@ -1,43 +1,43 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-10-24
 type: landing
 share: true
 
 sections:
-  - block: hero
-    content:
-      title: 
-      image:
-        filename: hero-academic.png
-      # cta:
-      #   label: '**Get Started**'
-      #   url: https://wowchemy.com/templates/
-      # cta_alt:
-      #   label: Ask a question
-      #   url: https://discord.gg/z8wNYzb
-      # cta_note:
-      #   label: >-
-      #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      text: |-
-        ***Hello, I'm now looking for a job in IT industry***
+  # - block: hero
+  #   content:
+  #     title: 
+  #     image:
+  #       filename: hero-academic.png
+  #     # cta:
+  #     #   label: '**Get Started**'
+  #     #   url: https://wowchemy.com/templates/
+  #     # cta_alt:
+  #     #   label: Ask a question
+  #     #   url: https://discord.gg/z8wNYzb
+  #     # cta_note:
+  #     #   label: >-
+  #     #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+  #     text: |-
+  #       ***Hello, I'm now looking for a job in IT industry***
 
-        **After the 2020 riot in Belarus, I was in prison, and now I'm forced to leave the country to get a job and a legalization in a EU country.**
+  #       **After the 2020 riot in Belarus, I was in prison, and now I'm forced to leave the country to get a job and a legalization in a EU country.**
 
-        I would be very happy to be a part of a company with Belarusian roots.
+  #       I would be very happy to be a part of a company with Belarusian roots.
 
-        I prefer a job from my web-stack: Backend or Full-Stack developer. But I would also consider a position of an intern-Junior at GameDev which is new to me.
+  #       I prefer a job from my web-stack: Backend or Full-Stack developer. But I would also consider a position of an intern-Junior at GameDev which is new to me.
 
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
+  #       <!--Custom spacing-->
+  #       <div class="mb-3"></div>
 
-        Please share this page with your network.
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+  #       Please share this page with your network.
+  #   design:
+  #     background:
+  #       gradient_end: '#1976d2'
+  #       gradient_start: '#004ba0'
+  #       text_color_light: true
   - block: about.avatar
     id: about
     content:
